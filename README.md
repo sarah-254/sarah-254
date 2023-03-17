@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sarah-254
-- 👀 I’m interested in web development and python programming language
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Sarah Irungu
+- 👀 I’m interested in Python programming language and it's use in Data Analysis.
+
 
 
 <!---
