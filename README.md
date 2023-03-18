@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sarah Irungu
+- Data Analyst
 - 👀 I’m interested in Python programming language and it's use in Data Analysis.
 
 
